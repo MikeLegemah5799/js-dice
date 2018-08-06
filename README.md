@@ -1,5 +1,5 @@
 # js-dice
-Javascript dice game written in Vanilla Javascript
+Javascript dice game written in Vanilla Javascript. Make sure you play in browsers 1024px and higher. I have not added responsive functionality yet.
 
 ## GAME RULES:
 - The game has 2 players, playing in rounds.
